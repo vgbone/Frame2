@@ -52,6 +52,7 @@ public class Frame2 {
 		
 		JButton btnShowMessage = new JButton("Show Message");
 		btnShowMessage.setBackground(Color.YELLOW);
+		
 		btnShowMessage.setBounds(181, 210, 103, 23);
 		btnShowMessage.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
