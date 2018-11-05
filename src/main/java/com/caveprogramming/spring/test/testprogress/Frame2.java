@@ -67,7 +67,7 @@ public class Frame2 {
 		lblMessage = new Label("New label");
 		lblMessage.setFont(new Font("Dialog", Font.PLAIN, 16));
 		lblMessage.setBackground(Color.RED);
-		lblMessage.setBounds(47, 44, 173, 22);
+		lblMessage.setBounds(81, 75, 254, 22);
 		frame.getContentPane().add(lblMessage);
 	}
 }
