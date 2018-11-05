@@ -56,8 +56,8 @@ public class Frame2 {
 		btnShowMessage.setBounds(181, 210, 103, 23);
 		btnShowMessage.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				//JOptionPane.showMessageDialog(null, "Hi sexy, your are mine");
-				lblMessage.setText("Hi sexy, your are mine dude!!!");
+				//JOptionPane.showMessageDialog(null, "Hi sexy, your are mine dude!!");
+				lblMessage.setText("Hi sexy, your are mine sexy dude!!!");
 				
 			}
 		});
